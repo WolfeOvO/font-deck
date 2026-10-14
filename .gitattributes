@@ -1,0 +1,5 @@
+# Preserve upstream font-license byte layout.
+extension/licenses/** -text -whitespace
+# Generated face registry/catalog are data, not handwritten formatting.
+extension/font-registry.js -whitespace
+extension/catalog.js -whitespace

@@ -1,0 +1,10 @@
+{
+  "family": "Google Sans",
+  "source_repo": "https://github.com/google/fonts",
+  "project_repo": "https://github.com/googlefonts/googlesans",
+  "commit": "a0e3dbcdc3a3ecfafff3f071159ae0221628922d",
+  "license": "OFL-1.1",
+  "license_evidence_url": "https://raw.githubusercontent.com/google/fonts/a0e3dbcdc3a3ecfafff3f071159ae0221628922d/ofl/googlesans/OFL.txt",
+  "unchanged_original_binaries": true,
+  "complete_font_files": 2
+}

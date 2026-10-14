@@ -1,0 +1,17 @@
+name: Verify
+on:
+  push:
+  pull_request:
+jobs:
+  unit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - run: npm test
+      - run: node --check extension/background.js && node --check extension/content.js && node --check extension/font-cache.js && node --check extension/font-loader.js && node --check extension/font-planner.js
+      - run: python -m compileall -q tools

@@ -1,0 +1,329 @@
+Copyright 2018-2019, 2022-2023 David Corbett. Copyright 2019-2022 Google LLC. All Rights Reserved.
+
+Copyright 2019-2022 Google LLC. All Rights Reserved.
+
+Copyright 2021 The Noto Sunuwar Project Authors (https://github.com/ScriptEncodingInitiative/sunuwar)
+
+Copyright 2022 Google LLC. All Rights Reserved.
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/adlam)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/ahom)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/anatolian-hieroglyphs)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/armenian)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/avestan)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/balinese)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/bamum)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/bassa-vah)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/batak)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/bengali)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/bhaiksuki)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/brahmi)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/buginese)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/buhid)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/canadian-aboriginal)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/carian)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/caucasian-albanian)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/chakma)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/cham)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/cherokee)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/chorasmian)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/coptic)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/cuneiform)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/cypriot)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/cypro-minoan)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/deseret)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/dogra)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/egyptian-hieroglyphs)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/elbasan)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/elymaic)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/ethiopic)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/georgian)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/glagolitic)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/gothic)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/grantha)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/gujarati)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/gunjala-gondi)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/gurmukhi)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/hanifi-rohingya)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/hanunoo)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/hatran)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/hebrew)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/imperial-aramaic)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/indic-siyaq-numbers)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/inscriptional-pahlavi)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/inscriptional-parthian)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/javanese)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/kaithi)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/kannada)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/kayah-li)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/kharoshthi)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/khmer)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/khojki)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/khudawadi)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/lao)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/lepcha)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/limbu)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/linear-a)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/linear-b)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/lisu)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/lycian)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/lydian)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/mahajani)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/makasar)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/malayalam)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/mandaic)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/manichaean)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/marchen)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/masaram-gondi)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/mayan-numerals)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/medefaidrin)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/meetei-mayek)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/mende-kikakui)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/meroitic)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/miao)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/modi)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/mro)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/multani)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/music)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/myanmar)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/nabataean)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/nandinagari)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/nastaliq)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/new-tai-lue)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/newa)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/nko)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/nushu)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/nyiakeng-puachue-hmong)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/ogham)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/ol-chiki)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/old-hungarian)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/old-italic)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/old-north-arabian)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/old-permic)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/old-persian)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/old-sogdian)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/old-south-arabian)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/old-turkic)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/old-uyghur)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/oriya)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/osage)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/osmanya)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/pahawh-hmong)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/palmyrene)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/pau-cin-hau)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/phags-pa)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/phoenician)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/psalter-pahlavi)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/rejang)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/runic)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/samaritan)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/saurashtra)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/sharada)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/shavian)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/siddham)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/sign-writing)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/sinhala)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/sogdian)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/sora-sompeng)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/soyombo)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/sundanese)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/syloti-nagri)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/symbols)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/syriac)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/tagalog)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/tagbanwa)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/tai-le)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/tai-tham)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/tai-viet)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/takri)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/tamil)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/tangsa)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/tangut)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/telugu)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/thaana)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/thai)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/tibetan)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/tifinagh)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/tirhuta)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/toto)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/ugaritic)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/vai)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/vithkuqi)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/wancho)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/warang-citi)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/yezidi)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/yi)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/zanabazar-square)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/znamenny)
+
+Copyright 2023 The Noto Project Authors (https://github.com/notofonts/hentaigana)
+
+Copyright 2023 The Noto Project Authors (https://github.com/notofonts/kawi)
+
+Copyright 2023 The Noto Project Authors (https://github.com/notofonts/mongolian)
+
+Copyright 2023 The Noto Project Authors (https://github.com/notofonts/nag-mundari)
+
+Copyright 2023 The Noto Project Authors (https://github.com/notofonts/nko)
+
+Copyright 2024 The Noto Project Authors (https://github.com/notofonts/dives-akuru)
+
+Copyright 2024 The Noto Project Authors (https://github.com/notofonts/hebrew)
+
+Copyright 2024 The Noto Project Authors (https://github.com/notofonts/todhri)
+
+Copyright 2025 The Noto Project Authors (https://github.com/notofonts/bengali)
